@@ -104,7 +104,7 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/TaChao/TaChao.github.io
-  branch: master
+  branch: gh-pages
 
 search:
   path: search.xml
